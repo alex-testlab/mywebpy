@@ -13,7 +13,7 @@ with open(os.path.join(rootdir, "README.md")) as in_file:
     long_description = in_file.read()
 
 setup(
-    name="web.py",
+    name="mywebpy",
     version=__version__,
     description="web.py: makes web apps",
     author="Aaron Swartz",
